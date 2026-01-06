@@ -32,21 +32,6 @@ def load_vector(payload, layer_id: int) -> torch.Tensor:
     v = v / (v.norm() + 1e-8)
     return v
 
-# def proj(model, text, hs_idx, layer_id, v, beta, max_length):
-#     try:
-#         sent = model.get_sentence_activation_steered(
-#             text=text,
-#             hs_idx=hs_idx,
-#             layer_id=layer_id,
-#             v_aae_unit=v,
-#             beta=beta,
-#             max_length=max_length,
-#         )
-#         v_local = v.to(dtype=sent.dtype)
-#         return float((sent.to(dtype=v_local.dtype) @ v_local).item())
-#     except Exception as e:
-#         logger.warning(f"proj failed beta={beta}: {e}")
-#         return float("nan")
 def proj(model, text, layer_id, v, beta, max_length):
     v_dev = v.to(model.model.device).to(dtype=next(model.model.parameters()).dtype)
     return model.get_hook_projection(text=text, layer_id=layer_id, v_aae_unit=v_dev, beta=beta, max_length=max_length)

@@ -93,7 +93,7 @@ def main():
     p.add_argument("--batch_size", type=int, default=8, help="Batch size for PPL")
     p.add_argument("--max_length", type=int, default=512, help="Tokenizer max_length")
     p.add_argument("--out_csv", required=True, help="Output CSV for sweep results")
-    p.add_argument("--scale", type=float, default=1000.0,
+    p.add_argument("--scale", type=float, default=1.0,
                help="Scale factor for dialect vector (v <- scale * v)")
     args = p.parse_args()
 
