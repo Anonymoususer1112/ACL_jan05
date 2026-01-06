@@ -1,0 +1,91 @@
+{
+  "model_name": "phi4",
+  "dgi_metrics": {
+    "dgi_aae_sae": 0.8164327949872032,
+    "dgi_aae_aae_from_sae": 0.7865148707086753,
+    "dgi_sae_aae_from_sae": 0.8399082163974936,
+    "dgi_three_way": 0.7297678933898155,
+    "dgi_by_sentiment": {
+      "positive": {
+        "count": 3146,
+        "dgi_aae_sae": 0.8321678321678322,
+        "dgi_aae_aae_from_sae": 0.8706293706293706,
+        "dgi_three_way": 0.7933884297520661
+      },
+      "negative": {
+        "count": 6097,
+        "dgi_aae_sae": 0.8528784648187633,
+        "dgi_aae_aae_from_sae": 0.7926849270132852,
+        "dgi_three_way": 0.761686075118911
+      },
+      "neutral": {
+        "count": 2088,
+        "dgi_aae_sae": 0.6863026819923371,
+        "dgi_aae_aae_from_sae": 0.6417624521072797,
+        "dgi_three_way": 0.5407088122605364
+      }
+    },
+    "sample_size": 11331
+  },
+  "shift_analysis": {
+    "shift_count": 2080,
+    "shift_percentage": 18.356720501279675,
+    "shift_patterns": {
+      "positive_to_negative": {
+        "count": 179,
+        "percentage": 1.5797370046774335,
+        "percentage_of_shifts": 8.60576923076923
+      },
+      "positive_to_neutral": {
+        "count": 349,
+        "percentage": 3.0800458918012534,
+        "percentage_of_shifts": 16.778846153846153
+      },
+      "negative_to_positive": {
+        "count": 290,
+        "percentage": 2.5593504545053394,
+        "percentage_of_shifts": 13.942307692307693
+      },
+      "negative_to_neutral": {
+        "count": 607,
+        "percentage": 5.356985261671521,
+        "percentage_of_shifts": 29.18269230769231
+      },
+      "neutral_to_positive": {
+        "count": 323,
+        "percentage": 2.8505868855352574,
+        "percentage_of_shifts": 15.528846153846153
+      },
+      "neutral_to_negative": {
+        "count": 332,
+        "percentage": 2.9300150030888714,
+        "percentage_of_shifts": 15.96153846153846
+      }
+    },
+    "positive_bias": 111,
+    "negative_bias": -111
+  },
+  "dataset_sizes": {
+    "aae": 11331,
+    "sae": 11331,
+    "aae_from_sae": 11331,
+    "merged": 11331
+  },
+  "sentiment_distribution": {
+    "aae": {
+      "negative": 6097,
+      "positive": 3146,
+      "neutral": 2088
+    },
+    "sae": {
+      "negative": 5711,
+      "positive": 3231,
+      "neutral": 2389
+    },
+    "aae_from_sae": {
+      "negative": 5249,
+      "positive": 3602,
+      "neutral": 2480
+    }
+  }
+}

@@ -1,0 +1,6 @@
+Model: microsoft/phi-4
+Total examples: 11331
+Average AAE perplexity: 282.7344
+Average SAE perplexity: 59.7405
+Average perplexity difference (AAE - SAE): 222.9939
+Average perplexity ratio (AAE / SAE): 6.1869

@@ -1,0 +1,81 @@
+row_id,context_dialect,continuation_dialect,combo,context_text,continuation_text,n_ctx_tokens,n_cont_tokens,avg_nll_cont,log_ppl_cont,ppl_cont
+8076,AAE,SAE,AAE_SAE,ik this girl,"changed it and I never changed it back , but I am going to though .",4.0,1.0,15.671875,15.671875,6400425.3048195895
+7807,AAE,SAE,AAE_SAE,wen i get TIRED of seeing yo damn name thru my,"timeline , I am going to tell you .",16.0,1.0,15.421875,15.421875,4984656.239383532
+2840,AAE,SAE,AAE_SAE,nobody nah miss yuh suh it nuh mek much difference wedda yuh,dead or alive .,19.0,1.0,15.4140625,15.4140625,4945865.336777186
+1623,SAE,AAE,SAE_AAE,"Hmm , I might",be able to spend time wit my sister for her bday dis weekend,5.0,1.0,14.90625,14.90625,2976474.1891671913
+5113,AAE,AAE,AAE_AAE,Ain ' t You Tired Of The Running Around . . Dont Chu Wanna,Be My Only Girl,20.0,1.0,14.7734375,14.7734375,2606287.8833459713
+5113,AAE,SAE,AAE_SAE,Ain ' t You Tired Of The Running Around . . Dont Chu Wanna,my only girl ?,20.0,1.0,14.7734375,14.7734375,2606287.8833459713
+4719,AAE,AAE,AAE_AAE,Dez young hoes are beyond dumb just let dez niggas do em,any kind of way,17.0,2.0,14.53125,14.53125,2045698.7988126625
+14419,AAE,SAE,AAE_SAE,""" "" "" I swear I hate wen Mfas say sum det dey kno not true .",true . . !,22.0,4.0,14.296875,14.296875,1618280.9470490562
+15299,SAE,SAE,SAE_SAE,"Hell yes , my",sister is going to college . I ’ m so proud of my sister .,5.0,1.0,14.2265625,14.2265625,1508403.7040823621
+11340,SAE,AAE,SAE_AAE,"Hell no , it might be","be bald but don ' t makem tat it "" "" """,7.0,1.0,14.2265625,14.2265625,1508403.7040823621
+6390,AAE,AAE,AAE_AAE,Cant wait to hit the gym tomorow . Though my body prob,wont like it at first,16.0,1.0,14.203125,14.203125,1473461.5699120602
+8299,SAE,SAE,SAE_SAE,"Yeah , he threw us two interceptions — one was a pick - six",. I ’ ll let you get back to your game .,17.0,1.0,14.0859375,14.0859375,1310523.8490293983
+12107,SAE,SAE,SAE_SAE,"Yeah , cousin . Why did you hang up on me last night",", man ? !",14.0,1.0,14.078125,14.078125,1300325.2715248284
+15595,SAE,SAE,SAE_SAE,"Yeah , okay . Don ’ t make me have to call my friends out",there to come confront you .,16.0,1.0,14.0625,14.0625,1280165.5967642837
+8511,AAE,AAE,AAE_AAE,Heaven & Tyra,was talking shit about me behind my back its cool though !,5.0,1.0,14.0390625,14.0390625,1250510.59265545
+8476,AAE,AAE,AAE_AAE,Gul ik I just b,lookin I ' m not gne do my bby like dat lol,6.0,2.0,13.96875,13.96875,1165604.040136135
+6518,AAE,AAE,AAE_AAE,soap cant wash the pain off . . see fate is a motherfucker,brother you cant change yours,17.0,1.0,13.796875,13.796875,981537.0104140493
+1962,AAE,SAE,AAE_SAE,Dat nigga you embracin,embracing with love might fire that gun because he has hatred in his heart .,9.0,1.0,13.7890625,13.7890625,973898.6287991512
+1840,AAE,AAE,AAE_AAE,exactly wish he would have come he is explosive need that,here but good luck,13.0,1.0,13.65625,13.65625,852774.1329269451
+1554,AAE,SAE,AAE_SAE,Trying to stay up this year . Well in other words trying not to get to,messed up too early .,17.0,1.0,13.6328125,13.6328125,833019.6414144599
+3877,SAE,AAE,SAE_AAE,Trying to be friends with someone who doesn ’ t want you to be with me,w / me lmaoo ? GTF !,17.0,1.0,13.625,13.625,826537.0311345428
+4055,AAE,SAE,AAE_SAE,mannn I was like where the hell my Yaya went smdh we still,still connected though .,17.0,2.0,13.6171875,13.6171875,820104.8689280588
+1293,AAE,SAE,AAE_SAE,Ya I called ur phone cause I ' m that btch na u an who,can get it one by one .,18.0,1.0,13.578125,13.578125,788687.1447789633
+4599,SAE,SAE,SAE_SAE,Hit me up only,when you want to talk freaky though ; maybe we can have a little basic conversation .,5.0,1.0,13.5,13.5,729416.3698477013
+5850,AAE,AAE,AAE_AAE,Wait outta all the stuff,he said . . . the modeling was the first concern ? Lol,7.0,1.0,13.390625,13.390625,653844.6081563217
+14851,SAE,AAE,SAE_AAE,Face looks like I ’,"like three papers got one more for the morning . $ wank "" "" """,6.0,1.0,13.3359375,13.3359375,619047.632850903
+1019,AAE,AAE,AAE_AAE,Ayee Um Going Up To The Center Be At My Crib By 4,: 00 Boii,18.0,1.0,13.1171875,13.1171875,497418.74718447827
+9569,AAE,AAE,AAE_AAE,Feel like going to get a bag of loud n facing while riding down 75,. . .,20.0,3.0,13.0703125,13.0703125,474640.28434147156
+10357,AAE,AAE,AAE_AAE,cause u act like u 7 when it comes to her big,fuckn baby !,14.0,3.0,13.0234375,13.0234375,452904.9232561431
+5995,SAE,AAE,SAE_AAE,Finally single ! I got rid of the headache and am living my life for myself and my,babies no turning bk nw .,20.0,1.0,13.015625,13.015625,449380.38918112416
+43,SAE,AAE,SAE_AAE,Was that supposed to be a joke ? That was not funny,"Better luck next time : - ) """,15.0,1.0,13.0,13.0,442413.3920089205
+10620,AAE,SAE,AAE_SAE,omg is this Marc ?,this Marc ? ! Robinson ? : ( I don ' t know you anymore .,7.0,1.0,12.9921875,12.9921875,438970.503677812
+2973,AAE,AAE,AAE_AAE,why I do im single and only talk to one girl so idk what,you talking bout,16.0,1.0,12.9453125,12.9453125,418868.5807732203
+3071,AAE,AAE,AAE_AAE,sorry fam i should of hyu,when i was n d big east yesterday,8.0,3.0,12.84375,12.84375,378416.22759305715
+5018,SAE,AAE,SAE_AAE,Nothing gets past me ! It ’,dat me keep quiet more while n pre out di ting,8.0,1.0,12.8125,12.8125,366773.5842483551
+5018,SAE,SAE,SAE_SAE,Nothing gets past me ! It ’,s just that I stay quiet more often and observe things .,8.0,1.0,12.8125,12.8125,366773.5842483551
+13626,SAE,SAE,SAE_SAE,"Nothing , just got",in the tub soaking in hot water .,5.0,1.0,12.8046875,12.8046875,363919.32957122265
+11273,AAE,AAE,AAE_AAE,Ok glad I got my sister,Tiana : ) she ' s always there wen I need to talk,7.0,2.0,12.796875,12.796875,361087.28688020865
+16222,SAE,SAE,SAE_SAE,"Nothing lasts forever , but I ' m okay with that because I don ' t worry about",anything or anyone .,20.0,1.0,12.7890625,12.7890625,358277.28332026565
+14500,SAE,AAE,SAE_AAE,"Nothing , just waiting for Amerah to get back so","I could whoop her ass . Hby ? "" "" """,12.0,1.0,12.7890625,12.7890625,358277.28332026565
+14419,AAE,AAE,AAE_AAE,""" "" "" I swear I hate wen Mfas say sum det dey kno not true .",". ! "" "" """,22.0,5.0,12.7578125,12.7578125,347254.2501518986
+4184,AAE,AAE,AAE_AAE,Getting down to,business . Going to apply to them colleges my baby wanna go to and SVSU and CSU,4.0,1.0,12.7109375,12.7109375,331352.3202810737
+10490,AAE,AAE,AAE_AAE,Ig I found out,what I have to live for . . . hate I had to realize that way !,5.0,1.0,12.7109375,12.7109375,331352.3202810737
+10127,AAE,AAE,AAE_AAE,Getting these brows Threaded . . . Time to stop walking around,looking immature in the face,15.0,1.0,12.7109375,12.7109375,331352.3202810737
+10127,AAE,SAE,AAE_SAE,Getting these brows Threaded . . . Time to stop walking around,so young in the face .,15.0,1.0,12.7109375,12.7109375,331352.3202810737
+5208,AAE,SAE,AAE_SAE,yea gurl tim ova here,feeling himself too much — he thinks he ’ s grown now .,9.0,1.0,12.6875,12.6875,323676.55204902356
+1650,SAE,AAE,SAE_AAE,"Ha ha , I bet these people hate to see me pop up on their",TL Owell . ! ; ) ),16.0,1.0,12.6875,12.6875,323676.55204902356
+7471,SAE,AAE,SAE_AAE,"Ha , they ' re trying to say I ' m out of shape , but I",they did ! ! !,18.0,1.0,12.6875,12.6875,323676.55204902356
+8299,AAE,SAE,AAE_SAE,yea he threw us 2picks one was a pick 6 .,. I ’ ll let you get back to your game .,17.0,1.0,12.6796875,12.6796875,321157.68113726657
+6168,AAE,SAE,AAE_SAE,Espically nobody door & u dnt know what,know what they have waiting for the other person .,11.0,3.0,12.6640625,12.6640625,316178.592796558
+11008,AAE,SAE,AAE_SAE,bro text me your dad email . He told me to email him but I got,a new phone .,18.0,2.0,12.65625,12.65625,313718.07146662584
+8379,SAE,AAE,SAE_AAE,"Ask me anything , I ' ll be honest . Why would I need to lie , though ? I '","im grown """,22.0,3.0,12.6171875,12.6171875,301699.72088323324
+205,AAE,AAE,AAE_AAE,So wen they lose in the super bowl where ya dickeater gonna b,at den ?,18.0,3.0,12.6015625,12.6015625,297022.30025506933
+6168,AAE,AAE,AAE_AAE,Espically nobody door & u dnt know what,dey got waitin for da other person,11.0,1.0,12.5859375,12.5859375,292417.39631226636
+7245,SAE,AAE,SAE_AAE,"Tonight I ’ m going to put my body on your body , boy . I like it when",u watch me,21.0,1.0,12.546875,12.546875,281215.0617794355
+10357,AAE,SAE,AAE_SAE,cause u act like u 7 when it comes to her big,a big baby !,14.0,1.0,12.53125,12.53125,276855.22635411005
+3989,SAE,AAE,SAE_AAE,"You couldn ’ t handle a woman like Meagan Good even if you had her , lol . I ’ m going to give you this girl named Monroe , hahaha — way above your",meter # listen,41.0,3.0,12.46875,12.46875,260081.41614523262
+9373,SAE,AAE,SAE_AAE,That ’ s crazy,need to keep they thoughts to they self on the BOSS,6.0,2.0,12.453125,12.453125,256049.22752630242
+14659,SAE,SAE,SAE_SAE,"Okay , okay , since",you ’ re begging ! LOL ! * Runs and jumps on you *,6.0,1.0,12.4296875,12.4296875,250117.85355909975
+2503,AAE,SAE,AAE_SAE,Its a must to read a book 3 times over,times to unlock its full potential !,12.0,1.0,12.4140625,12.4140625,246240.13566037422
+11265,AAE,SAE,AAE_SAE,Its funny how society n da public eye can really place limits,self - expression .,14.0,1.0,12.4140625,12.4140625,246240.13566037422
+4110,AAE,SAE,AAE_SAE,trying to focus on making shit right now or the future won,won ' t be pleasant .,14.0,1.0,12.3359375,12.3359375,227734.89723169437
+10546,SAE,SAE,SAE_SAE,"Um , it ’ s",snowing and it ’ s really accumulating . I hope I get home before it gets dark and slippery .,6.0,1.0,12.3359375,12.3359375,227734.89723169437
+2840,SAE,AAE,SAE_AAE,"Nobody really misses you , so it doesn ’ t make much difference whether you ’ re",dead r alive,20.0,1.0,12.3046875,12.3046875,220728.23104701296
+474,SAE,AAE,SAE_AAE,"My boyfriend hasn ’ t called me ; I guess I ’ m going out alone tonight . He has plans , but I don ’ t —","tf ! """,31.0,3.0,12.2109375,12.2109375,200975.34141739144
+15574,SAE,AAE,SAE_AAE,"Everything , bro . LOL , you know he ’ s new to that stuff","it ' s too funny "" "" """,17.0,2.0,12.203125,12.203125,199411.33890231265
+14541,SAE,AAE,SAE_AAE,Wait . . . Hold on . Please let me,"up . Lol "" "" """,11.0,2.0,12.203125,12.203125,199411.33890231265
+1075,AAE,SAE,AAE_SAE,Bad things dont happen in your life for no reason they happen because god is,teaching you a life lesson .,16.0,1.0,12.1953125,12.1953125,197859.50755136734
+1677,SAE,SAE,SAE_SAE,Fredo is in the background,", and you really have to watch out — he has hundred - round drums and he ' s going to mess you up .",7.0,1.0,12.171875,12.171875,193276.09699554692
+8277,SAE,AAE,SAE_AAE,"hell yeah , and I need to talk to you about",you about how tofet in the program,12.0,2.0,12.140625,12.140625,187329.61663795754
+15893,SAE,SAE,SAE_SAE,"Say my name ,",boy . Let me know I ' m in control .,5.0,1.0,12.0625,12.0625,173251.57362786165
+3265,SAE,SAE,SAE_SAE,"Up watching TV waiting for this snow to fall , lol . .",. It would be nice to get some though .,15.0,2.0,12.015625,12.015625,165317.80644535722
+15827,SAE,AAE,SAE_AAE,Should I get a tattoo after I graduate or while,"or in college ? "" "" """,14.0,1.0,12.0,12.0,162754.79141900392
+14683,SAE,SAE,SAE_SAE,"Bro , I told","him he can ' t get mad , because he isn ' t faithful to me .",5.0,2.0,11.984375,11.984375,160231.51225756778
+15191,SAE,SAE,SAE_SAE,Sure ! I want,to try to make it to your show too .,5.0,2.0,11.953125,11.953125,155301.7068904384
+12348,SAE,SAE,SAE_SAE,"baby is so pretty , it ' s unbelievable , and she",has the biggest eyes !,16.0,1.0,11.9375,11.9375,152893.97709449488
+13314,SAE,SAE,SAE_SAE,Down in the area with my son and a couple of,my friends . # ArenaCross,12.0,1.0,11.9375,11.9375,152893.97709449488
+11662,SAE,SAE,SAE_SAE,Thank God that girl Mer deleted her account — she really ruins my,interest in social media !,15.0,1.0,11.625,11.625,111859.62321414231
+12335,SAE,SAE,SAE_SAE,"Oh , and reduce",your salt intake and drink plenty of water .,5.0,1.0,11.453125,11.453125,94195.24673475562
+11511,SAE,SAE,SAE_SAE,"Yeah , I really like him a","lot , lol .",8.0,2.0,11.453125,11.453125,94195.24673475562
